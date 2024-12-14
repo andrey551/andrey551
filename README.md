@@ -1,5 +1,5 @@
 <div align="center">
-[![Hello World, I'm Dau!](https://github.com/andrey551/asserts/background.jpg)]
+[![Hello World, I'm Dau!](https://github.com/andrey551/andrey551/blob/main/asserts/background.jpg)]
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dau-tuan-anh-872b091a6/) &nbsp;
 [![Medium](https://skillicons.dev/icons?i=devto)](https://medium.com/@tuananhdaucong) &nbsp;
