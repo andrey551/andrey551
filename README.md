@@ -1,5 +1,5 @@
 <div align="center">
-[![Hello World, I'm Dau!](assets/background.jpg)](https://github.com/andrey551)
+[![Hello World, I'm Dau!](asserts/background.jpg)](https://github.com/andrey551)
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dau-tuan-anh-872b091a6/) &nbsp;
 [![Medium](https://skillicons.dev/icons?i=devto)](https://medium.com/@tuananhdaucong) &nbsp;
@@ -24,6 +24,6 @@ Fear is not real
 ## 🏆 My Stats:
 
 <p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kshyun28&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshyun28&layout=compact&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=andrey551&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrey551&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
