@@ -14,6 +14,7 @@
 - 🏆 I'm striving to increase my GitHub stats rating by contributing to open source.
 - 😄 Pronouns: He/Him
 
+
 <div align="center">
     
 ## 💻 My Tech Stack:
