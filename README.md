@@ -1,5 +1,5 @@
 <div align="center">
-[![Hello World, I'm Dau!](assets/background.jpg)](https://github.com/andrey551)
+![Dau Cong Tuan Anh - Software Engineer](assets/background.png)
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dau-tuan-anh-872b091a6/) &nbsp;
 [![Medium](https://skillicons.dev/icons?i=devto)](https://medium.com/@tuananhdaucong) &nbsp;
