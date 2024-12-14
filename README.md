@@ -1,4 +1,5 @@
 <div align="center">
+    
 ![Dau Cong Tuan Anh - Software Engineer](assets/background.jpg)
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dau-tuan-anh-872b091a6/) &nbsp;
