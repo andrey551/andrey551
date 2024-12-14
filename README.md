@@ -15,6 +15,10 @@
 - 😄 Pronouns: He/Him
 
 <div align="center">
+    
+## 💻 My Tech Stack:
+
+[![Java, Spring Boot/Cloud, React.js, Maven, MongoDB, PostgreSQL, RabbitMQ](https://skillicons.dev/icons?i=java,spring,react,maven,mongodb,postgres,rabbitmq)](https://skillicons.dev)
 
 ## 💡 A Quote:
 
