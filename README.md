@@ -12,8 +12,6 @@
 - 🌱 I’m passionate about <b>System architecture</b>,<b>Oracle Ecosystem</b>,<b>Database system</b> and <b>Japanese</b>  
 - 📝 I’m aiming to write one article per week starting from Dec 24.
 - 🏆 I'm striving to increase my GitHub stats rating by contributing to open source.
-- 😄 Pronouns: He/Him
-
 
 <div align="center">
     
